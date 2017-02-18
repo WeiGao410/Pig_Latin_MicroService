@@ -45,5 +45,5 @@ Ran 8 tests in 0.001s
 
 OK
 ```
- # Other Notes
+# Other Notes
  pigLatin.py can also run separately, just input a string and get the Pig Latin without the server support.
