@@ -37,7 +37,7 @@ e.g.
 # Running Tests
 The test file is in the /test. You can run
 ```bash
-   python test.py
+   python piglatin_test.py
 ```
 If tests done successfully, you may see
 ```
