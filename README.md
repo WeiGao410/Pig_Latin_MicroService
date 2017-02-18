@@ -6,7 +6,7 @@ Preserve all of the punctuation in the original string.
 Tools: python 2.7 environment and Chrome plugin Postman.
 Just run the following command to get up server.
 ```bash
-    'python server.py 8080'
+   python server.py 8080
 ```
 The service will then be listening on port 8080(if port is already allocated, change to other port). If you visit the page http://localhost:8080/, you will see the welcome message.
 # Using the Pig Latin translator
@@ -23,7 +23,7 @@ Using Postman to have the test.
 Fill in the Body with a sentence or paragraphs you like.
 e.g.
 ```
-    'If we didn't have stupid thoughts, we'd have no interesting thoughts at all.'
+     If we didn't have stupid thoughts, we'd have no interesting thoughts at all.
 ```
 ## Success Response
 
@@ -37,7 +37,7 @@ e.g.
 # Running Tests
 The test file is in the /test. You can run
 ```bash
-    'python test.py'
+   python test.py
 ```
 If tests done successfully, you may see
 ```
