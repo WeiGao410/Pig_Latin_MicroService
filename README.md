@@ -41,6 +41,8 @@ The test file is in the /test. You can run
 ```
 If tests done successfully, you may see
 ```
+........
+----------------------------------------------------------------------
 Ran 8 tests in 0.001s
 
 OK
